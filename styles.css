@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,400;1,600&display=swap');
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   font-family: 'Montserrat', sans-serif;
+   background-color: #f4f4f4;
+}
+
+.cabecalho {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: static;
+    bottom: 0;
+    width: 100%;
+} 
+.principal {
+   padding: 20px;
+}
+
+.titulo-secao {
+   font-size: 24px;
+   font-weight: bold;
+   margin-bottom: 20px;
+}
+
+.perfil {
+   display: flex;
+   align-items: center;
+   margin-bottom: 40px;
+   padding: 20px;
+}
+
+.imagem-perfil {
+   width: 180px;
+   height: 180px;
+   border-radius: 50%;
+   object-fit: cover;
+   margin-right: 20px;
+}
+
+.informacoes-perfil {
+   max-width: 500px;
+}
+
+.nome-perfil {
+   font-size: 24px;
+   margin-bottom: 10px;
+}
+
+.descricao-perfil {
+   font-size: 16px;
+   margin-bottom: 20px;
+}
+
+.contato-perfil {
+   list-style-type: none;
+   padding: 0;
+}
+
+.contato-perfil li {
+   margin-bottom: 10px;
+}
+
+.rodape {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
