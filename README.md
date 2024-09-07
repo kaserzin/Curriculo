@@ -4,12 +4,12 @@ Este projeto consiste em um **currículo pessoal** desenvolvido com **HTML** e *
 
 ## Estrutura de Arquivos
 curriculo-pessoal
- ┣ img
- ┃ ┣ WhatsApp.png
- ┃ ┣ icon.png
- ┃ ┣ linkedin.png
- ┃ ┣ mail.png
- ┃ ┗ perfil.png
- ┣ README.md
- ┣ index.html
- ┗ styles.css
+- ┣ img
+- ┃ ┣ WhatsApp.png
+- ┃ ┣ icon.png
+- ┃ ┣ linkedin.png
+- ┃ ┣ mail.png
+- ┃ ┗ perfil.png
+- ┣ README.md
+- ┣ index.html
+- ┗ styles.css
