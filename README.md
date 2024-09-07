@@ -13,3 +13,6 @@ curriculo-pessoal
 - ┣ README.md
 - ┣ index.html
 - ┗ styles.css
+
+## Pré Visualização
+![pre visualização](img/pre_view.png)
