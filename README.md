@@ -1,9 +1,9 @@
-# Currículo Pessoal
+# Currículo
 
 Este projeto consiste em um **currículo pessoal** desenvolvido com **HTML** e **CSS** como parte de uma atividade avaliativa. O currículo é responsivo e apresenta minhas informações profissionais e acadêmicas de forma organizada e estilizada.
 
 ## Estrutura de Arquivos
-curriculo-pessoal
+
 - ┣ img
 - ┃ ┣ WhatsApp.png
 - ┃ ┣ icon.png
